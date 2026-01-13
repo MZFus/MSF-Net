@@ -1,7 +1,7 @@
 Description
 ==
 
-This is the official code of MSF-Net：A Hyperspectral and Multispectral Image Fusion Network Based on Multiscale Spatial Pyramid and Frequency-Domain Feature Enhancement.
+This is the official code of Joint Frequency-Domain Learning and Multiscale Spatial Feature Extraction for Hyperspectral–Multispectral Image Fusion.
 
 Pre-trained model
 ==
